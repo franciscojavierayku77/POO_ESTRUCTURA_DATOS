@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1537140316 source:c:\users\eduardo\desktop\estructura de datos tareas\unidad 1\ejercicios\ejercicio 2 juego de ahorcado\main.cpp
+	"juego.h"
+	<iostream>
+	<string>
+
+1537140316 source:c:\users\eduardo\desktop\estructura de datos tareas\unidad 1\ejercicios\ejercicio 2 juego de ahorcado\src\juego.cpp
+	"juego.h"
+	<stdlib.h>
+	<time.h>
+	<iostream>
+	<string>
+
+1537056831 c:\users\eduardo\desktop\estructura de datos tareas\unidad 1\ejercicios\ejercicio 2 juego de ahorcado\include\juego.h
+	<iostream>
+	<string>
+
