@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1538580312 source:c:\users\fcojavierjunior\documents\programcionc\ejercicio_billetes\main.cpp
+	<iostream>
+	<string>
+	"billetes_proceso.h"
+
+1538580180 c:\users\fcojavierjunior\documents\programcionc\ejercicio_billetes\billetes_proceso.h
+	<iostream>
+	<string>
+
+1538580120 source:c:\users\fcojavierjunior\documents\programcionc\ejercicio_billetes\billetes_proceso.cpp
+	"billetes_proceso.h"
+	<iostream>
+	<string>
+
+1538580442 source:c:\users\fcojavierjunior\desktop\ejercicio_billetes\billetes_proceso.cpp
+	"billetes_proceso.h"
+	<iostream>
+	<string>
+
+1538580501 c:\users\fcojavierjunior\desktop\ejercicio_billetes\billetes_proceso.h
+	<iostream>
+	<string>
+
+1538580312 source:c:\users\fcojavierjunior\desktop\ejercicio_billetes\main.cpp
+	<iostream>
+	<string>
+	"billetes_proceso.h"
+

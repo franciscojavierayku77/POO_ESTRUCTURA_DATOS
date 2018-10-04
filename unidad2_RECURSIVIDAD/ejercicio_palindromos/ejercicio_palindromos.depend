@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1538574383 source:c:\users\fcojavierjunior\documents\programcionc\ejercicio_palindromos\main.cpp
+	<iostream>
+	<string.h>
+	"palindromo_operacion.h"
+
+1538574419 c:\users\fcojavierjunior\documents\programcionc\ejercicio_palindromos\palindromo_operacion.h
+	<iostream>
+	<string.h>
+
+1538574457 source:c:\users\fcojavierjunior\documents\programcionc\ejercicio_palindromos\palindromo_operacion.cpp
+	"palindromo_operacion.h"
+	<iostream>
+	<string.h>
+
+1538580724 source:c:\users\fcojavierjunior\desktop\ejercicio_palindromos\main.cpp
+	<iostream>
+	<string.h>
+	"palindromo_operacion.h"
+
+1538574419 c:\users\fcojavierjunior\desktop\ejercicio_palindromos\palindromo_operacion.h
+	<iostream>
+	<string.h>
+
+1538574457 source:c:\users\fcojavierjunior\desktop\ejercicio_palindromos\palindromo_operacion.cpp
+	"palindromo_operacion.h"
+	<iostream>
+	<string.h>
+
